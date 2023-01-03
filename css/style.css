@@ -1,0 +1,32 @@
+body {
+    font-family: 'Roboto', arial;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+header{
+    background-color: #1F2937;
+    padding: 20px 80px;
+    display: flex;
+    align-items: center;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+}
+
+.header-logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.header-link {
+    font-size: 18px;
+    color: #E5E7EB;
+    margin-left: auto;
+}
+
+.header-link a {
+    padding: 10px;
+}
